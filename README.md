@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BalaganeshA2k
 - 👀 I’m interested to code in java
-- 🌱 I’m currently learning Selenium
-- 💞️ I’m looking to collaborate on SpringCore SpringAOP jUnit
+- 🌱 I’m currently learning DevOps and microservices
+- 💞️ I’m looking to collaborate on Springboot
 - 📫 How to reach me balapunch367@gmail.com
 
 <!---
